@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
 /**
- * Unit test for Hello.
+ * Unit test for Hello.Testing
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
